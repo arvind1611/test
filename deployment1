@@ -1,0 +1,6 @@
+node any{
+
+stage ("test){
+ansiInfo("this is test")
+}
+}
